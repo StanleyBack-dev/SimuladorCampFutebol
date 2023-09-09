@@ -82,6 +82,6 @@ Se você deseja entrar em contato comigo para discutir sobre o projeto ou qualqu
 
 ## Vídeo de Demonstração
 
-[![Vídeo de Demonstração](https://img.youtube.com/vi/zVRlqmG6cLE/maxresdefault.jpg)](https://www.youtube.com/watch?v=zVRlqmG6cLE)
+[![Vídeo de Demonstração](https://img.youtube.com/vi/zVRlqmG6cLE/maxresdefault.png)](https://www.youtube.com/watch?v=zVRlqmG6cLE)
 
 Assista ao vídeo completo [aqui](https://www.youtube.com/watch?v=zVRlqmG6cLE).
